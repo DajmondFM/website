@@ -1,16 +1,16 @@
 body{
-    background-color: antiquewhite;
+    background-color: #566573;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 20px;
+    font-size: 30px;
 }
 
 table, th, td{   
     border: 1px solid;
     text-align: center;    
-    background-color: aquamarine;
+    background-color: #21618C;
 }
 a:link{
     color: blueviolet;
