@@ -1,0 +1,16 @@
+body {
+  background-color: aquamarine;
+  font-size: 20px;
+  color: black;
+}
+#name{
+  text-align: center;
+}
+
+#img{
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+  float: right;
+  width: 25%;
+}

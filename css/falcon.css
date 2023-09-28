@@ -1,12 +1,16 @@
 body {
     background-color: aquamarine;
+    font-size: 20px;
+    color: black;
 }
-#img {
-    width: 50px;
-    height: 50px;
-    background-color: red;
-    float: right;
-}
-p {
+#name{
     text-align: center;
+}
+
+#img{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    float: right;
+    width: 25%;
 }
