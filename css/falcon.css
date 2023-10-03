@@ -1,5 +1,5 @@
 body {
-    background-color: aquamarine;
+    background-color: #f6f1eb;
     font-size: 20px;
     color: black;
 }
@@ -13,4 +13,7 @@ body {
     height: 400px;
     float: right;
     width: 25%;
+}
+p{
+    font-weight: bold;
 }
